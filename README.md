@@ -29,7 +29,7 @@
  
 11. [22.2审核案例](/#22.2)
 
-- [11.22](#11.22)
+- [OK, that's it](#ok-thats-it)
 
 ---------------------------------
 
@@ -277,7 +277,7 @@ Next Steps
 Please remove or revise any misleading content in your app and its metadata.
 ```
 
-### 11.22
+### OK, that's it
 ------------------------------------------------------
 
 > #### *《未完，待续！请点击Star持续关注最新动态！》* 
