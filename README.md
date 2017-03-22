@@ -29,7 +29,7 @@
  
 11. [22.2审核案例](#22.2)
 
-- [22.2审核案例](#22.2审核案例)
+- [22.2审核案例](#wang)
 - [OK, that's it](#ok-thats-it)
 
 ---------------------------------
@@ -277,7 +277,7 @@ Your app or its metadata contains misleading content. Specifically, your app nam
 Next Steps
 Please remove or revise any misleading content in your app and its metadata.
 ```
-#### 22.2审核案例
+#### wang
 ### OK, that's it
 ------------------------------------------------------
 
