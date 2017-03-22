@@ -3,7 +3,7 @@
 
 #### *《未完，待续！请点击Star持续关注最新动态！》* 
 
-#### 目录
+#### <span id="目录">目录：</span>
 
 -------------------------------
 
@@ -17,11 +17,11 @@
  
 5. [Performance-2.3.1审核案例](#Performance-2.3.1)
 
-6. [2.3.10审核案例](#2.3.10审核案例])
+6. [2.3.10审核案例](#2.3.10)
 
 7. [PLA-3.3.12审核案例](#PLA-3.3.12)
  
-8. [PLA-3.3.2热更新审核案例](#PLA-3.3.2)
+8. [PLA-3.3.2热更新审核案例](#PLA-3.3.2热更新审核案例)
  
 9. [Legal-5.2.3审核案例](#Legal-5.2.3)
 
@@ -33,7 +33,7 @@
 
 #### 正文：
 
-#####PLA-1.2 
+##### <span id="PLA-1.2">PLA-1.2审核案例</span> 
 
 ([目录](#目录))
 
@@ -53,7 +53,7 @@ Your app must be published under a Seller name and Artist name that reflects the
 您的应用必须以符合XXX有限责任公司品牌名称的开发者账号上传。如果您是帮助客户开发的应用，请通知您的客户将您添加到他们的开发者账号团队成员中。
 ```
 
-##### Safety-1.2 
+##### <span id="Safety-1.2">Safety-1.2审核案例</span> 
 
 ([目录](#目录))
 
@@ -77,7 +77,7 @@ Please revise your app to implement all of the following precautions:
 - The developer must act on objectionable content reports within 24 hours by removing the content and ejecting the user who provided the offending content.
 ```
 
-##### Performance-2.1 
+##### <span id="Performance-2.1">Performance-2.1审核案例</span> 
 
 ([目录](#目录))
 
@@ -99,7 +99,7 @@ Next Steps
 Please run your app on a device to identify the issue(s), then revise and resubmit your app for review.
 ```
 
-##### 2.3 
+##### <span id="2.3">2.3审核案例</span> 
 
 ([目录](#目录))
 
@@ -121,7 +121,7 @@ If these features are located in your app, please reply to this message in the R
 Alternatively, please revise your app to ensure that these features are fully implemented or revise your application description, release notes and screenshots to remove this content.
 ```
 
-##### Performance-2.3.1
+##### <span id="Performance-2.3.1">Performance-2.3.1审核案例</span> 
 
 ([目录](#目录))
 
@@ -141,7 +141,7 @@ Next Steps
 Please remove these features from your app.
 ```
 
-##### 2.3.10 
+##### <span id="2.3.10">2.3.10审核案例</span> 
 
 ([目录](#目录))
 
@@ -162,7 +162,7 @@ Next Steps
 Providing future platform compatibility plans, or other general platform references, is not appropriate in the context of the App Store. It would be appropriate to remove this information.
 ```
 
-##### PLA-3.3.12
+##### <span id="PLA-3.3.12">PLA-3.3.12审核案例</span> 
 
 ([目录](#目录))
 
@@ -181,7 +181,7 @@ Specifically, section 3.3.12 of the Apple Developer Program License Agreement st
 "You and Your Applications (and any third party with whom you have contracted to serve advertising) may use the Advertising Identifier, and any information obtained through the use of the Advertising Identifier, only for the purpose of serving advertising. If a user resets the Advertising Identifier, then You agree not to combine,correlate, link or otherwise associate, either directly or indirectly, the prior Advertising Identifier and any derived information with the reset Advertising Identifier."
 ```
 
-##### PLA-3.3.2
+##### <span id="PLA-3.3.2热更新审核案例">PLA-3.3.2热更新审核案例</span> 
 
 ([目录](#目录))
 
@@ -202,7 +202,7 @@ Best regards
 App store Review
 ```
 
-##### Legal-5.2.3
+##### <span id="Legal-5.2.3">Legal-5.2.3审核案例</span> 
 
 ([目录](#目录))
 
@@ -231,7 +231,7 @@ Next Steps
 Please provide documentary evidence of your rights to allow music or video content download from their sources. If you do not have the requested permissions, please remove the music or video download functionality from your app.
 ```
 
-##### Legal-5.3.3
+##### <span id="Legal-5.3.3">Legal-5.3.3审核案例</span> 
 
 ([目录](#目录))
 
@@ -257,7 +257,7 @@ Next Steps
 While raffle tickets cannot be purchased within the app, you may provide a link that launches your web site, in Safari, and enables ticket purchase.
 ```
 
-##### 22.2
+##### <span id="22.2">22.2审核案例</span> 
 
 ([目录](#目录))
 
