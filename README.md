@@ -7,27 +7,27 @@
 
 -------------------------------
 
-1. [PLA-1.2审核案例](#PLA-1.2)
+1. [PLA-1.2审核案例](/#PLA-1.2)
 
-2. [Safety-1.2审核案例](#Safety-1.2)
+2. [Safety-1.2审核案例](/#Safety-1.2)
  
-3. [Performance-2.1审核案例](#Performance-2.1)
+3. [Performance-2.1审核案例](/#Performance-2.1)
  
-4. [2.3审核案例](#2.3)
+4. [2.3审核案例](/#2.3)
  
-5. [Performance-2.3.1审核案例](#Performance-2.3.1)
+5. [Performance-2.3.1审核案例](/#Performance-2.3.1)
 
-6. [2.3.10审核案例](#2.3.10)
+6. [2.3.10审核案例](/#2.3.10)
 
-7. [PLA-3.3.12审核案例](#PLA-3.3.12)
+7. [PLA-3.3.12审核案例](/#PLA-3.3.12)
  
-8. [PLA-3.3.2热更新审核案例](#PLA-3.3.2热更新审核案例)
+8. [PLA-3.3.2热更新审核案例](/#PLA-3.3.2热更新审核案例)
  
-9. [Legal-5.2.3审核案例](#Legal-5.2.3)
+9. [Legal-5.2.3审核案例](/#Legal-5.2.3)
 
 10. [Legal-5.3.3审核案例](#Legal-5.3.3)
  
-11. [22.2审核案例](#22.2)
+11. [22.2审核案例](/#22.2)
 
 ---------------------------------
 
@@ -35,7 +35,7 @@
 
 ##### <span id="PLA-1.2">PLA-1.2审核案例</span> 
 
-([目录](#目录))
+([目录](/#目录))
 
 __原因：__
 
@@ -55,7 +55,7 @@ Your app must be published under a Seller name and Artist name that reflects the
 
 ##### <span id="Safety-1.2">Safety-1.2审核案例</span> 
 
-([目录](#目录))
+([目录](/#目录))
 
 __原因：__
 
@@ -79,7 +79,7 @@ Please revise your app to implement all of the following precautions:
 
 ##### <span id="Performance-2.1">Performance-2.1审核案例</span> 
 
-([目录](#目录))
+([目录](/#目录))
 
 __原因：__
 
@@ -101,7 +101,7 @@ Please run your app on a device to identify the issue(s), then revise and resubm
 
 ##### <span id="2.3">2.3审核案例</span> 
 
-([目录](#目录))
+([目录](/#目录))
 
 __原因：__
 
@@ -123,7 +123,7 @@ Alternatively, please revise your app to ensure that these features are fully im
 
 ##### <span id="Performance-2.3.1">Performance-2.3.1审核案例</span> 
 
-([目录](#目录))
+([目录](/#目录))
 
 __原因：__
 
@@ -143,7 +143,7 @@ Please remove these features from your app.
 
 ##### <span id="2.3.10">2.3.10审核案例</span> 
 
-([目录](#目录))
+([目录](/#目录))
 
 __原因：__
 
@@ -164,7 +164,7 @@ Providing future platform compatibility plans, or other general platform referen
 
 ##### <span id="PLA-3.3.12">PLA-3.3.12审核案例</span> 
 
-([目录](#目录))
+([目录](/#目录))
 
 __原因：__
 
@@ -183,7 +183,7 @@ Specifically, section 3.3.12 of the Apple Developer Program License Agreement st
 
 ##### <span id="PLA-3.3.2热更新审核案例">PLA-3.3.2热更新审核案例</span> 
 
-([目录](#目录))
+([目录](/#目录))
 
 __原因：__
 
@@ -204,7 +204,7 @@ App store Review
 
 ##### <span id="Legal-5.2.3">Legal-5.2.3审核案例</span> 
 
-([目录](#目录))
+([目录](/#目录))
 
 __原因：__
 
@@ -233,7 +233,7 @@ Please provide documentary evidence of your rights to allow music or video conte
 
 ##### <span id="Legal-5.3.3">Legal-5.3.3审核案例</span> 
 
-([目录](#目录))
+([目录](/#目录))
 
 __原因：__
 
@@ -259,7 +259,7 @@ While raffle tickets cannot be purchased within the app, you may provide a link 
 
 ##### <span id="22.2">22.2审核案例</span> 
 
-([目录](#目录))
+([目录](/#目录))
 
 __原因：__
 
