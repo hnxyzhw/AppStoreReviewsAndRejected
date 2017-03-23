@@ -29,6 +29,8 @@
  
 * [11. 22.2审核案例](#22.2)
 
+* [12. Legal-5.3.2审核案例](#Legal-5.3.2)
+
 ---------------------------------
 
 #### 正文：
@@ -263,7 +265,8 @@ While raffle tickets cannot be purchased within the app, you may provide a link 
 
 __原因：__
 
-包含虚假、误导用户的信息或功能
+包含虚假、误导用户的信息或功能。
+
 如果名称、描述等应用信息或功能中包含虚假、山寨的成分，被苹果认定为：有误导用户的嫌疑，审核时就会被拒绝。
 
 __附被拒理由原文:__
@@ -275,6 +278,56 @@ Next Steps
 Please remove or revise any misleading content in your app and its metadata.
 ```
 
+#### <h4 id="Legal-5.3.2">Legal-5.3.2审核案例</h4> 
+
+* ([目录](#目录))
+
+__原因：__
+
+应用内涉及奖励，未声明与苹果无关。
+
+App 里有实物奖励的话，不能使用苹果产品（例如 iPhone 、iPad 等）作为奖品。另外一定要声明“奖励由本公司提供，与苹果官方无关”。
+
+解决方案：此类活动，加上声明“此活动与苹果公司无关”
+
+__附被拒理由原文:__
+
+```
+Legal - 5.3.2
+
+
+Your app includes a contest or sweepstakes but it does not:
+
+- Include official rules for the raffle within the app, which is required.
+- Indicate that Apple is not involved in any way with the contest or sweepstakes.
+
+Next Steps
+
+It is necessary to:
+
+- Include official rules of the contest or sweepstakes in the app
+- Include an explicit statement in the contest or sweepstakes rules specifying that Apple is not a sponsor.
+- Enforce an age rating of 17+.
+
+译文：
+Legal - 5.3.2
+
+您的应用程序包括一个竞赛或抽奖活动，但它不：
+
+-包括官方规则的抽奖活动内的应用程序，这是必需的。
+
+-表明苹果不参与任何方式与竞赛或抽奖活动。
+
+接下来的步骤
+
+有必要：
+
+-包括正式规则的比赛或抽奖活动的应用程序
+
+-包括一个明确的声明在竞赛或抽奖规则，指定苹果不是赞助商。
+
+-执行年龄等级为17 +。
+```
 
 ------------------------------------------------------
 
